@@ -29,10 +29,6 @@ const getTodayDate = () => {
 };
 
 export default function App() {
-  // const initializeHealthConnect = async () => {
-  //   const result = await initialize();
-  //   console.log({ result });
-  // };
 
   const [isInitialized, setIsInitialized] = useState(false);
 

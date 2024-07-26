@@ -29,7 +29,6 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-router",
       "expo-health-connect",
       "react-native-health-connect",
       [
