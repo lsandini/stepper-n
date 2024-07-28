@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "with Matin's fix"
+git commit -m "with prebuild"
 git push -u origin main

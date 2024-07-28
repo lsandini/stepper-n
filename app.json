@@ -19,7 +19,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.lsandini.stepper",
+      "package": "com.lsandini.stepper_n",
       "permissions": [
         "android.permission.health.READ_STEPS",
         "android.permission.health.WRITE_STEPS"
@@ -40,6 +40,11 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5d9c557a-d10c-4bd9-a1a8-14e5d2e7c0fe"
+      }
+    }
   }
 }
