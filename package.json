@@ -4,12 +4,13 @@
   "main": "expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web"
   },
   "dependencies": {
     "expo": "~51.0.22",
+    "expo-health-connect": "^0.1.0",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.3",
@@ -18,8 +19,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "expo-build-properties": "^0.12.3",
-    "expo-health-connect": "^0.1.0"
+    "expo-build-properties": "^0.12.3"
   },
   "private": true
 }
