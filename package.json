@@ -10,16 +10,16 @@
   },
   "dependencies": {
     "expo": "~51.0.22",
-    "expo-health-connect": "^0.1.0",
+    "expo-health-connect": "^0.1.1",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.3",
-    "react-native-health-connect": "^2.1.0",
-    "expo-dev-client": "~4.0.20"
+    "react-native-health-connect": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "expo-build-properties": "^0.12.3"
+    "expo-build-properties": "^0.12.3",
+    "expo-dev-client": "~4.0.20"
   },
   "private": true
 }
